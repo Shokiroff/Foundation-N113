@@ -1,0 +1,15 @@
+                         Git bilan ishlash uchun funksiyalar!
+1.Git init - Bo'sh git repositoryni e'lon qilish va uni ishga tushirish.
+2.git config --list - git loyiha uchun sozlanmalar ro'yxatini ko'rish.
+3.git config user.name -> git loyihaga user.name qo'shish
+4.git config user.email ->  git loyihaga elektron pochtani biriktirish
+5.git add filename -> ko'rsatilgan nomdagi faylni git repsitoryga qo'shish.
+6.git add. ->joriy katalogdagi barcha ko'rsatilgan barcha o'zgarishlarni git repositoryda saqlash!
+7.git status -> Joriy git loyihaning joriy holatini tekshirish!
+8.git commit -m "massage" -> kiritilgan o'zgarishlarni "massage" xabari orqali saqlash.
+9.git log -> git repositorydagi barcha o'zgarishlarni tarixini ko'rish, bundz kim qaysi email, 
+10.git branch -> mazkur git repositorydagi barcha branch(filial)larni ro'yxatini ko'rish
+11.git branch "neww branch" ->"new branch" nomli yangi branch ghosil qilish
+12.git switch "branch_name" - > joriy branchdan yangi nomi keltirilgan branchga o'tish!
+13. git merge "branch_name" ->boshqa branchdan qilingan o'zgarishni joriy branch uchun qo'shib qo'yish!
+14.git clone "url" -> havolasi(silkasi) keltirilgan repositorygni nusxalash.
