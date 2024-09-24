@@ -1,0 +1,15 @@
+Git bilan ishlash uchun Funksiyalar
+1)Git init -- bo’sh reporisitoryni e’lon qilish va uni ishga tushirish 
+2)Git config-- list  -- git loyixa uchun sozlanmalar ro’yxatini ko’rish 
+3)Git config user.name --> git loyixaga usernmae qo’shish
+4)Git config user.email --> git loyixaga elektron pochtani biriktirish
+5)Git add filename --> ko’rsatilgan faylni git repositoryga qo’shish uchun ishlatiladi
+6)Git add. --> joriy katalogdagi barcha o’zgarishlarni git repasitoryda saqlash!
+7)Git status --> Joriy git loyixaning joriy holatini tekshirish!
+8)Git commit -m “Massage” --> Kiritilgan oz’garishlarni massage xabari orqali saqlash
+9)Git log --> git repositorydagi barcha o’zgarishlar tarixini ko’rish, bunda kim nma , qachon nma ish qilganligi ko’rinib turadi 
+10)Git branch --> mazkur git repositoridagi barcha branchlarni(filial) ro’yxatini k’orish 
+11)Git brancha “new branch” --> “new_branch” nomli yangi branch hosil qilish
+12)Git switch “branchName” --> Joriy branchadan yangi branchga o’tish!
+13)Git merge “branch_name: --> boshqa branchda qilingan o’zgarishni joriy branch uchun qo’shib qo’yish!
+14)Git clone --> Havolasi keltirilgan repositoriyni nusxalash 
